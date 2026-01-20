@@ -1,2 +1,3 @@
-# DisciplineFX-Journal
-Forex &amp; Crypto Trading Journal – Track, edit, and analyze trades with win/loss charts and summary cards
+Forex Journal App
+Track your Forex trades efficiently with this desktop app.  
+[Download / Paid Version on Gumroad](https://codesmith8.gumroad.com/l/nstdyr)
